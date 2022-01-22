@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6614d1edc4c2d4842b59782e54ba671c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a086a47195f50144cb30c952699eb62b, type: 3}
+  - {fileID: 21300000, guid: 13f5e653acd00334aa9b0b36a5f4c418, type: 3}
+  - {fileID: 21300000, guid: 4770aec49e5a7d84cb53d29870205bfe, type: 3}
+  - {fileID: 21300000, guid: f4400957da7a91d478d5683256409c50, type: 3}
+  - {fileID: 21300000, guid: bc6f832a20e134945821fb9a06028b52, type: 3}
+  - {fileID: 21300000, guid: de0b7f7a02528a74b9d06abc750eb99d, type: 3}
+  - {fileID: 21300000, guid: 743269ea0d988ff4ebff511ff5250167, type: 3}
+  - {fileID: 21300000, guid: 5dca900bd77e434498881dbb3cd28f7c, type: 3}
+  - {fileID: 21300000, guid: 469f835baec4d734a86d27eb5b420607, type: 3}
+  - {fileID: 21300000, guid: 8e2820cc33657f9439432742edc4f2e7, type: 3}
+  - {fileID: 21300000, guid: 27aa83fca64048a4f9ff8ebadf8a1d45, type: 3}
+  - {fileID: 21300000, guid: 40d452ad1c51f0049ac5d3cc7d207b84, type: 3}
+  - {fileID: 21300000, guid: 3620ccceb360d8f479ceacde9123a3c1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MenuBulletSelected
+  - Dirt
+  - AttackArrowBacker
+  - MenuBullet
+  - ActionNameBacker
+  - MoreConversationArrow
+  - AttackArrowFill
+  - AbilityMenu
+  - BlueAttackPanel
+  - ConversationPanel
+  - Avatar
+  - MenuBulletLocked
+  - RedAttackPanel
+  m_RenderDataMap: {}
+  m_Tag: UI_Atlas
+  m_IsVariant: 0
